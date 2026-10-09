@@ -1,6 +1,6 @@
 import { ArrowRight, X } from 'lucide-react'
 import { Link } from 'react-router-dom'
-import logoImage from '../../assets/Modern Teal Plastic Manufacturing Logo.png'
+import logoImage from '../../assets/Glossy Plastic Manufactures Co. Logo.png'
 import Button from '../ui/Button'
 
 export default function MobileMenu({ open, close }) {

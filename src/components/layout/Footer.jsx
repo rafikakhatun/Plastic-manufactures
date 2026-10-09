@@ -1,6 +1,6 @@
 import { Mail, Phone } from 'lucide-react'
 import { Link } from 'react-router-dom'
-import logoImage from '../../assets/Modern Plastic Company Footer Logo.png'
+import logoImage from '../../assets/Modern Plastic Manufactures Co. Logo.png'
 import Button from '../ui/Button'
 
 export default function Footer() {
